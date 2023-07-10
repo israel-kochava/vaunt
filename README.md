@@ -1,4 +1,4 @@
-# vaunt
+# Israel Karasek
 
 <p>
     <a href="https://vaunt.dev">
